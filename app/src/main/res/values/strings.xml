@@ -1,0 +1,22 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Coffee Ordering</string>
+    <string name="name">Name: </string>
+    <string name="name_hint">Enter your name here</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="order">Order</string>
+    <string name="more_than_100_error">You cannot have more than 100 coffees</string>
+    <string name="less_than_1_error">You cannot have less than 1 coffees</string>
+    <string name="enter_name_error">Enter your name</string>
+    <string name="thank_you">Thank You!</string>
+    <string name="name_value">Name: <xliff:g id="name" example="Maliha">%s</xliff:g></string>
+    <string name="whipped_cream_value">Add whipped cream? <xliff:g id="hasWhippedCream" example="true">%b</xliff:g></string>
+    <string name="chocolate_value">Add chocolate? <xliff:g id="hasChocolate" example="true">%b</xliff:g></string>
+    <string name="quantity_value">Quantity: <xliff:g id="quantity" example="true">%d</xliff:g></string>
+    <string name="price_value">Total: <xliff:g id="price" example="$10">$%d</xliff:g></string>
+    <string name="choose_email_client">Choose an Email client:</string>
+    <string name="subject_for_email">Coffee order for <xliff:g id="name" example="Maliha">%s</xliff:g></string>
+    <string name="email_id"><xliff:g id="emailId">malihanan09@gmail.com</xliff:g></string>
+</resources>

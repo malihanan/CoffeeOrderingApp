@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Pedido de café</string>
+    <string name="name">Nombre:</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="order">Ordenar</string>
+    <string name="whipped_cream">Crema batida</string>
+    <string name="quantity">Cantidad</string>
+    <string name="name_value">Nombre: <xliff:g id="name" example="Maliha">%s</xliff:g></string>
+    <string name="whipped_cream_value">Agregue la crema batida? <xliff:g id="hasWhippedCream" example="true">%b</xliff:g></string>
+    <string name="chocolate_value">Agregue el chocolate? <xliff:g id="hasChocolate" example="true">%b</xliff:g></string>
+    <string name="choose_email_client">Elija un cliente de correo electrónico:</string>
+    <string name="email_id"><xliff:g id="emailId">malihanan09@gmail.com</xliff:g></string>
+    <string name="price_value">Total: <xliff:g id="price" example="$10">$%d</xliff:g></string>
+    <string name="thank_you">¡Gracias!</string>
+    <string name="subject_for_email">Pedido de café para <xliff:g id="name" example="Maliha">%s</xliff:g></string>
+    <string name="quantity_value">Cantidad: <xliff:g id="quantity" example="true">%d</xliff:g></string>
+    <string name="name_hint">Introduzca su nombre aquí</string>
+    <string name="more_than_100_error">No puedes tomar más de 100 cafés</string>
+    <string name="less_than_1_error">No puedes tomar menos de 1 café</string>
+    <string name="enter_name_error">Introduzca su nombre</string>
+</resources>
